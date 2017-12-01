@@ -1,5 +1,5 @@
-# starter-todo
-Starter project for COMP4711 lab 5, Fall 2017
+# TODO Backend
+This provides a restful api for the Tasks model.
 
-It "works" out of the box, sort of, but needs beefing up :(
-Your job is to fix it, per lab 5 directions :)
+COMP 4711 Lab 9 Fall 2017
+
